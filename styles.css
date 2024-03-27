@@ -35,3 +35,8 @@ footer button{
     justify-content: center;
     border-radius: 20px;
 }
+
+main figure img {
+    width: 100px;
+    
+}
